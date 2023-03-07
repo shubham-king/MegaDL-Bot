@@ -13,19 +13,19 @@
     "env": {
         "API_ID": {
             "description": "Your API_ID from my.telegram.org",
-            "required": true
+            "required": false
         },
         "API_HASH": {
             "description": "Your API_HASH from my.telegram.org",
-            "required": true
+            "required": false
         },
         "OWNER_ID": {
             "description": "Your Telegram ID from @Find_TGIDbot",
-            "required": true
+            "required": false
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token. Get it from @BotFather",
-            "required": true
+            "required": false
         },
         "LOG_CHANNEL": {
             "description": "Logs Channel ID for some tracking XD. Get it from @Find_TGIDbot",
