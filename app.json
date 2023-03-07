@@ -29,7 +29,7 @@
         },
         "LOG_CHANNEL": {
             "description": "Logs Channel ID for some tracking XD. Get it from @Find_TGIDbot",
-            "required": true
+            "required": false
         },
         "UPDATES_CHANNEL": {
             "description": "Updates Channel ID For ForceSub Asap. Get it from @Find_TGIDbot",
